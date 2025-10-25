@@ -1,7 +1,6 @@
 ---
 layout: archive
 permalink: /blog/
-author_profile: true
 ---
 
 {% assign posts = site.posts %}
