@@ -1,9 +1,10 @@
 ---
-layout: single
+layout: archive
 permalink: /contact/
+author_profile: true
+title : How to get in touch
 ---
 
-# How to get in touch
 -------
 
 The best way to contact me is through email at jaw124[at]ic.ac.uk
