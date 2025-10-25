@@ -15,4 +15,6 @@ Outside of research/academia, I enjoy playing squash and exploring new parts of 
 
 # Contact
 
-If anything on my site is of interest, please feel free to reach out! I am always open to enquiries related to interesting problems (doesn't have to be RL specific - please see my blog for some other examples), or if you want to discuss my research further. The best way to contact me is via email at jaw124[at]ic.ac.uk
+If anything on my site is of interest, please feel free to reach out! I am always open to enquiries related to interesting problems (doesn't have to be RL specific - please see my blog for some other examples), or if you want to discuss my research further. 
+
+The best way to contact me is via email at jaw124[at]ic.ac.uk
