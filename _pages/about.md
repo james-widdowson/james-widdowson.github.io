@@ -9,7 +9,7 @@ redirect_from:
 
 About
 ======
-I am a PhD student on the [StatML CDT](https://statml.io), jointly hosted by Imperial College London and the University of Oxford. My current research interests are broadly related to Reinforcement Learning, with a specific focus on the applications of foundation models for decision making tasks. As part of my PhD, I have also taken classes on topics such as Variational inference and Diffusion models (to be expanded later in the year!)
+I am a PhD student on the [StatML CDT](https://statml.io), jointly hosted by Imperial College London and the University of Oxford. My current research interests are broadly related to Reinforcement Learning, with a specific focus on the applications of foundation models for decision making tasks. As part of my PhD, I am also working on a project between the Department of Computing at Imperial and [Google Deepmind](https://deepmind.google) which I hope to (eventually) detail in a blog post.
 
 Outside of research/academia, I enjoy playing squash and exploring new parts of London, particularly when there's food involved.
 
