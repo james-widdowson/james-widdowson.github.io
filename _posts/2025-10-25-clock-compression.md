@@ -1,7 +1,7 @@
 ---
-title: 'Best way to sound a Clock'
+title: 'Deepmind project'
 date: 2025-10-25
-permalink: /blog/clockcompression/
+permalink: /research/deepmindproject/
 catagories: [blog]
 ---
 
