@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /blog/
+permalink: /research/
 ---
 
 {% assign posts = site.posts %}
