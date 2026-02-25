@@ -14,7 +14,7 @@ offline Reinforcement Learning, building on the results from <a href="https://ar
 that model-based methods can be more sample efficient than model-free for certain classes of problems. Notably, our results hold in a general-purpose, function-approximation setting<sup>[2](#footnote2)</sup> and hence
 are more applicable to modern RL methods than those that are specified to the tabular case. 
 
-
+<a href="files/1st_miniproject.pdf">A comparison of model-free and model-based Reinforcement Learning in the offline setting</a>
 
 
 <a name='footnote1'>1</a>: This is essentially the number of samples needed to learn a sufficiently good policy.
