@@ -12,7 +12,7 @@ graduate-level research.
 For my first mini-project, I worked on comparing the sample efficiciency<sup>[1](#footnote1)</sup> of model-based and model-free methods in 
 offline Reinforcement Learning, building on the results from <a href="https://arxiv.org/pdf/2407.15007"> Foster et. al. (2024)</a>. We show formally
 that model-based methods can be more sample efficient than model-free for certain classes of problems. Notably, our results hold in a general-purpose, function-approximation setting<sup>[2](#footnote2)</sup> and hence
-are more applicable to modern RL methods than those that are specified to the tabular case. 
+are more applicable to modern RL methods than those that are specified to the tabular case. The paper is linked below for those interested: happy reading!
 
 <a href="/files/1st_miniproject.pdf">Model-free and model-based Reinforcement Learning in the offline setting</a>
 
